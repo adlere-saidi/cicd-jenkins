@@ -1,6 +1,7 @@
 # cicd-pipeline-train-schedule-jenkins
 
 This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
+this version has been modified to work with gradle 7.5.1 and the node plugin version "3.1.1"
 
 ## Running the app
 
